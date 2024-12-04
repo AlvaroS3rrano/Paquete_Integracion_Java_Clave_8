@@ -16,6 +16,6 @@
     CAMBIAR VALUE SEGÚN DIRECTORIO (HABRÍA QUE CARGARLO DE FORMA SIMILAR AL COMENTARIO DE ARRIBA, PERO NO SÉ CÓMO HACERLO) -->
     
     <bean id="spConfigRepository" class="java.lang.String">
-        <constructor-arg value="/home/daniel/Escritorio/Poddera/workspace/Paquete_de_Integracion_Java8_v2.2.4/Paquete_Integracion_Java_Clave_8/Config/" />
+        <constructor-arg value="/home/alvaro/eclipse-workspace/Paquete_Integracion_Java_Clave_8/Config/" />
     </bean>
 </beans>
